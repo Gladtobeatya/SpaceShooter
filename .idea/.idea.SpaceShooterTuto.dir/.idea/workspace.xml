@@ -2,25 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38361cde-092e-45da-ab77-f4b5562dba40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/HUDs/UI_EnemyHealthBar_WBP.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Projectiles/EnemyProjectile_2_BP.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Projectiles/Enemy_Projectile_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Projectiles/Player_Projectile_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Projectiles/ProjectileParentBP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/EnemyParentBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/EnemyParentBP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/Enemy_1_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Enemy_1_BP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Enemy_Projectile_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Enemy_Projectile_1.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/GameModeBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/GameModeBP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/HUDs/Widget_HUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/HUDs/Widget_HUD.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PlayerBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/PlayerBP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Player_Projectile_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Player_Projectile_1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/ProjectileParentBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/ProjectileParentBP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/HUDs/UI_EnemyHealthBar_WBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/HUDs/UI_EnemyHealthBar_WBP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Projectiles/EnemyProjectile_2_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Projectiles/EnemyProjectile_2_BP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Projectiles/Enemy_Projectile_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Projectiles/Enemy_Projectile_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Projectiles/Player_Projectile_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Projectiles/Player_Projectile_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Projectiles/ProjectileParentBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Projectiles/ProjectileParentBP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Fx/NS_NierBall.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Fx/NS_NierBall.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Fx/NierBall_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Fx/NierBall_BP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/First_Lvl.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/First_Lvl.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/Launch_Lvl.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Launch_Lvl.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Materials/M_Fresnel_Inst.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/M_Fresnel_Inst.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Materials/M_LightingCloud.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/M_LightingCloud.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Meshes/SM_SphereInverse.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Meshes/SM_SphereInverse.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Materials/M_LightingCloud_Inst.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/M_LightingCloud_Inst.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Materials/M_Opaque_Core.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/M_Opaque_Core.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Materials/M_Opaque_Core_Inst.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/M_Opaque_Core_Inst.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,7 @@
       <workItem from="1664931131128" duration="130000" />
       <workItem from="1665274068131" duration="30000" />
       <workItem from="1665490780950" duration="2000" />
+      <workItem from="1665539273508" duration="2000" />
     </task>
     <servers />
   </component>
