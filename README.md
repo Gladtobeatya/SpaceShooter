@@ -7,7 +7,7 @@ This is not a finished game yet.
 
 You can download the latest version of this game by following this link : 
 
-https://drive.google.com/file/d/10j9BcvNroQd26l-eXg1BKwmbbQSTzCzV/view?usp=drive_link
+https://drive.google.com/file/d/1POEyjPj0HprsaRo2vGNnmKALIwqjdguJ/view?usp=drive_link
 
-Compressed folder size : 705Mo
+Compressed folder size : 706.3Mo
 Decompressed folder size : 863Mo
